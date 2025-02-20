@@ -47,3 +47,9 @@ This initiative is a dashboard for data analysis focused on IPL (Indian Premier 
    - Calculated season-wise leading run-scorers and wicket-takers.
 5. Match-wise Performance:
    - Enabled users to access detailed match statistics.
+
+📌 IPL Player Performance Data Analysis
+This Streamlit app analyzes IPL player performance data.
+
+🔗 Live App: [Click here to view](https://iplplayerperformancedataanalysisproject-bfnqks6skvpx5uhwceqf7j.streamlit.app/)
+
